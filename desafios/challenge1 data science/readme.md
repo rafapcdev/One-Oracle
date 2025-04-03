@@ -56,11 +56,15 @@ Este projeto realiza uma análise detalhada dos dados de vendas de quatro lojas 
 ---
 
 
-## :charts: Gráficos
+## 📊 Gráficos
 
+### Faturamento Anual x Loja
 ![Faturamento Anual x Loja](assets/Faturamento%20anual%20%20x%20loja.png)
+### Vendas por Categoria de Produto por Loja
 ![Vendas por Categoria de Produto por Loja](assets/Vendas%20por%20Categoria%20de%20Produto%20por%20Loja.png)
+### Média de avaliação x lojas
 ![Média de avaliação x lojas](assets/Média%20de%20avaliação%20x%20lojas.png)
+### Frete médio x loja 
 ![Frete médio x loja](assets/Frete%20médio%20x%20loja.png)
 
 ---
