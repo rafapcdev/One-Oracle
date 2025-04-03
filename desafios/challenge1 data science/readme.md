@@ -82,8 +82,8 @@ Este projeto realiza uma análise detalhada dos dados de vendas de quatro lojas 
 ## 📧 Contato
 
 Para dúvidas ou sugestões, entre em contato:
-- **Email**: seu-email@exemplo.com
-- **LinkedIn**: [seu-perfil](https://www.linkedin.com/in/seu-perfil)
+- **Email**: dev.matheuspc@gmail.com
+- **LinkedIn**: [Perfil linkedin](https://www.linkedin.com/in/matheus-pc)
 
 ---
 
