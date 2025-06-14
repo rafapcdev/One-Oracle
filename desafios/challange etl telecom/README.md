@@ -1,24 +1,32 @@
 Relatório de evasão de clientes
+
 Autor: Matheus Pereira Costa
 
 Data: 14/06/2025
 
 Contextualização
+
 De acordo com os ultimos dados obtidos foram percebidos um aumento no número de evasões de clientes devido a esse mótivo foi solicitado um estudo sobre as possíveis causas e se haveriam alguma relação entre elas.
 
 Metodologia
+
 A metodologia aplicada para obter os dados foi através da biblioteca requests onde foi feito uma consulta do tipo get na API que se encontra em GitHub.
 
 Após trazer esses dados para dentro do projeto de análise, foi verificado que ele havia 7267 linhas e 6 colunas. Foi transformado em dataframe com a biblioteca do pandas e posteriormente expandidas as colunas que estavam com dados em formato de dicionário usando pd.json_normalize, resultando em um dataframe com 7267 linhas e 22 colunas.
 
 Validação dos Dados
-Não foram encontrados dados nulos ou duplicados
-Padronização de colunas binárias (Yes/No transformado para formato binominal numérico 1/0)
-Padronização de dados com mais de uma forma de escrita, exemplo (No/No phone service)
-Identificados e removidos 224 casos com espaços em branco na coluna Churn
+
+- Não foram encontrados dados nulos ou duplicados
+- Padronização de colunas binárias (Yes/No transformado para formato binominal numérico 1/0)
+- Padronização de dados com mais de uma forma de escrita, exemplo (No/No phone service)
+- Identificados e removidos 224 casos com espaços em branco na coluna Churn
+
 Análise Exploratória
+
 Taxa de evasão (Churn): 26.54% do total
+
 Tabelas de apoio
+
 Ressalta-se que como os dados binários foram transformados para númericos então em colunas com 0 significa não/não evadiu e 1 sim/evadiu
 
 Categóricas
