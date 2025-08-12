@@ -140,6 +140,10 @@ Por fim, destaca-se a importância da continuidade no monitoramento e atualizaç
 
 ## Apendices
 
+1. Relatório de classificação do modelo Logistic Regression (oversampling):
+
+
+```python
   precision    recall  f1-score   support
 
            0       0.91      0.72      0.80      1549
@@ -148,3 +152,8 @@ Por fim, destaca-se a importância da continuidade no monitoramento e atualizaç
     accuracy                           0.74      2110
    macro avg       0.71      0.76      0.71      2110
 weighted avg       0.80      0.74      0.76      2110
+```
+
+2. Matriz de confusão do modelo Logistic Regression (oversampling):
+
+![alt text](image.png)
