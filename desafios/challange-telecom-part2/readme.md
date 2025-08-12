@@ -1,3 +1,30 @@
+# Desafio Telecom Part 2 - Análise de Evasão de Clientes e Modelagem Preditiva
+
+## instrução
+
+para conseguir rodar o notebook localmente você irá precisar instalar as bibliotecas usadas durante o projeto, para isso basta rodar os seguintes comandos:
+
+```bash
+python -m venv venv
+```
+
+```bash
+venv/scripts/activate
+```
+
+```bash
+pip install -r requirements.txt
+```
+
+## Estrutura da pasta
+
+- `challange_telecom_part_2.ipynb`: Notebook principal contendo a análise e modelagem preditiva.
+- `requirements.txt`: Lista de dependências do projeto.
+- `image.png`: Imagem da matriz de confusão do modelo Logistic Regression (oversampling).
+- `readme.md`: Este arquivo de documentação.
+- `modelo_logistic_regression.pkl`: Modelo treinado salvo em formato pickle para uso posterior.
+- `dados/` pasta contendo os dados utilizados no projeto.
+
 # Relatório Final: Análise de Evasão de Clientes e Modelagem Preditiva
 
 ## 1. Introdução
