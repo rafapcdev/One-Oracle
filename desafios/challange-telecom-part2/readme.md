@@ -137,3 +137,14 @@ Os coeficientes do modelo evidenciam que variáveis como tempo de relacionamento
 Compreender esses aspectos possibilita a elaboração de estratégias direcionadas, que podem reduzir a taxa de evasão e aumentar a satisfação e fidelização dos clientes. Investir em contratos de longo prazo, programas de fidelidade, melhorias nos serviços oferecidos e no atendimento ao cliente são caminhos essenciais para consolidar uma base sólida e sustentável.
 
 Por fim, destaca-se a importância da continuidade no monitoramento e atualização dos modelos preditivos, assim como a incorporação constante do feedback dos clientes, garantindo que as ações sejam cada vez mais alinhadas às necessidades reais do mercado e ao comportamento dos consumidores.
+
+## Apendices
+
+  precision    recall  f1-score   support
+
+           0       0.91      0.72      0.80      1549
+           1       0.51      0.80      0.62       561
+
+    accuracy                           0.74      2110
+   macro avg       0.71      0.76      0.71      2110
+weighted avg       0.80      0.74      0.76      2110
