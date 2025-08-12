@@ -4,14 +4,22 @@
 
 para conseguir rodar o notebook localmente você irá precisar instalar as bibliotecas usadas durante o projeto, para isso basta rodar os seguintes comandos:
 
+1- passo
 ```bash
 python -m venv venv
 ```
+2- passo
 
+no windows
 ```bash
 venv/scripts/activate
 ```
+no linux
+```bash
+source venv/bin/activate
+```
 
+3- passo
 ```bash
 pip install -r requirements.txt
 ```
