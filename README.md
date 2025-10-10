@@ -11,4 +11,4 @@ Dentro de cada há os codigos utilizados para criar a pagina html.
 
 ## Acessar
 
-Você pode acessar as paginas <a href="https://matheus-costa-dev.github.io/One-Oracle/"> clicando aqui </a>
+Você pode acessar as paginas <a href="https://rafapcdev.github.io/One-Oracle/"> clicando aqui </a>
